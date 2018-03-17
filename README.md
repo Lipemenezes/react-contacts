@@ -14,3 +14,6 @@ Second, you just need to clone this repository and type a few npm commands:
 `npm install`
 
 `npm start`
+
+# 
+I'll update this repository with production build instructions when i get there.
